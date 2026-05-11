@@ -164,9 +164,9 @@ Para los Casos 2 y 3 vas a necesitar tres librerías. Vamos a crear el archivo y
 En VS Code, crea un archivo nuevo en la raíz del workspace llamado `requirements.txt` con este contenido:
 
 ```text
-anthropic>=0.40.0
-openai>=1.50.0
-google-generativeai>=0.8.0
+anthropic
+openai
+google-genai
 python-dotenv>=1.0.0
 ```
 
